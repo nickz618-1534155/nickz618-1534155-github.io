@@ -1,0 +1,11 @@
+img {
+    float: right;
+    margin: 0 0 10px 10px;
+}
+#round1 {
+    border-radius: 50px;
+    background: #73AD21;
+    padding: 20px;
+    width: 800px;
+    height: 1000px;
+}
